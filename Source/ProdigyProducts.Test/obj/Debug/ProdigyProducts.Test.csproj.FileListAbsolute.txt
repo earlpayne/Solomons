@@ -13,3 +13,8 @@ C:\Users\Stevan\Desktop\Projects\Solomons.Web\ProdigyProducts.Test\bin\Debug\Pro
 C:\Users\Stevan\Desktop\Projects\Solomons.Web\ProdigyProducts.Test\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Stevan\Desktop\Projects\Solomons.Web\ProdigyProducts.Test\obj\Debug\ProdigyProducts.Test.dll
 C:\Users\Stevan\Desktop\Projects\Solomons.Web\ProdigyProducts.Test\obj\Debug\ProdigyProducts.Test.pdb
+C:\Users\PAYNE\Desktop\Projects\Solomons\Source\ProdigyProducts.Test\bin\Debug\ProdigyProducts.Test.dll
+C:\Users\PAYNE\Desktop\Projects\Solomons\Source\ProdigyProducts.Test\bin\Debug\ProdigyProducts.Test.pdb
+C:\Users\PAYNE\Desktop\Projects\Solomons\Source\ProdigyProducts.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PAYNE\Desktop\Projects\Solomons\Source\ProdigyProducts.Test\obj\Debug\ProdigyProducts.Test.dll
+C:\Users\PAYNE\Desktop\Projects\Solomons\Source\ProdigyProducts.Test\obj\Debug\ProdigyProducts.Test.pdb
